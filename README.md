@@ -1,4 +1,4 @@
-\# Progetto IUM
+# Progetto IUM
 
 
 
@@ -8,7 +8,7 @@ jonathancrescentini@studio.unibo.it
 
 ## Risorse
 
-\[Mockup Figma](https://www.figma.com/design/fYkaVBd1m6QXUb1j6ycYIA/ProgettoIUM?node-id=0-1\&t=kqdfBU2PNrREyc0S-1)
+[Mockup Figma](https://www.figma.com/design/fYkaVBd1m6QXUb1j6ycYIA/ProgettoIUM?node-id=0-1\&t=kqdfBU2PNrREyc0S-1)
 
 
 
