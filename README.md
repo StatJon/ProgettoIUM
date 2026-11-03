@@ -1,10 +1,8 @@
 # Progetto IUM
 
+chiara.casali12@studio.unibo.it
 
-
-chiaracasaliocaselli@studio.unibo.it
-
-jonathancrescentini@studio.unibo.it
+jonathan.crescentini@studio.unibo.it
 
 ## Risorse
 
